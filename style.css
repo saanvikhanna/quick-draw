@@ -1,0 +1,42 @@
+body
+{
+background-color: deepskyblue;
+}
+
+#label
+{
+    font-size: 40px;
+    color:white;
+}
+
+#confidence
+{
+    font-size: 40px;
+    color:deeppink;
+}
+
+#sketch
+{
+    font-size: 40px;
+    color:blueviolet;
+}
+
+#score
+{
+    font-size: 40px;
+    float: left;
+    margin-left: 40px;
+    color:red;
+}
+
+#timer
+{
+    font-size: 40px;
+    float: right;
+    margin-right: 40px;
+    color:black;
+}
+canvas
+{
+    margin-top: 70px;
+}
